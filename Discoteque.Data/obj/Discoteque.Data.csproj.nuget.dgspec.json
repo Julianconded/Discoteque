@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
+    "c:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
   },
   "projects": {
-    "C:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "c:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "c:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "C:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "c:\\net\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\Winuser\\.nuget\\packages\\",
-        "outputPath": "C:\\net\\Discoteque\\Discoteque.Data\\obj\\",
+        "outputPath": "c:\\net\\Discoteque\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Winuser\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.9, )"
