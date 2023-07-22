@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw47GT1lI4yFrxxim7VzNNfX1sDHVElShcFHDGZDSTysUbbzZGXXhSUeTZDeAvZfP0Na0fFeLJ02LYQQi6QGWA==",
+  "dgSpecHash": "EZ02BkevZ5c3zWSDFTaIQ3AcGCzlgykyZkyt7huUgHynzDiztStm3k6C4MgOGnPMtHukn3P/qr2+5jJapGxWCQ==",
   "success": true,
-  "projectFilePath": "C:\\net\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+  "projectFilePath": "C:\\net\\Discoteque\\Discoteque.api\\Discoteque.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Winuser\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Winuser\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
